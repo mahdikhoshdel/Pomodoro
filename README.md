@@ -1,5 +1,5 @@
 # Pomodoro
-GUI Pomodoro timer using Tkinter
+GUI Pomodoro timer using `Tkinter`
 
 what is Pomodoro timer?
   Pomodoro is a type of timer that set by certain rules.
