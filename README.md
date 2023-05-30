@@ -10,3 +10,5 @@
 `Short break: 5 minutes`
 `Long break: 20 minutes`
 
+
+![preview](https://github.com/mahdikhoshdel/Pomodoro/assets/47051507/5089343f-d40d-4e44-a773-47b0898fda75)
